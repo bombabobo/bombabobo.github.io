@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Student",
+      "organisation": "Epitech",
+      "startDate": "Oct, 2023",
+      "endDate": "Present",
+      "experiences": ["learned C", "learned the bases of web"],
+      "imageSrc": "history/epitech.png"
+    },
+    {
+      "role": "Student",
+      "organisation": "Lycee lachenal",
+      "startDate": "Sept, 2020",
+      "endDate": "Jun, 2023",
+      "experiences": ["learned python", "started to use Unity"],
+      "imageSrc": "history/Lachenal.png"
+    }
+  ]
